@@ -120,6 +120,5 @@ class Search
         }
     }
 }
-
 new Search();
 ?>
