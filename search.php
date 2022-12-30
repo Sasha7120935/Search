@@ -5,6 +5,7 @@ Description: Search
 Author:  Belous Alex
 Version: 1.0
 */
+include dirname(__FILE__) . '/customPost.php';
 
 class Search
 {
